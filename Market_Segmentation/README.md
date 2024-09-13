@@ -7,11 +7,11 @@ The sample Dataset summarizes the usage behavior of about 9000 active credit car
 **Algorithms used :**
 In this dataset i've used five clustering algorithm to perform segmentation.These algorithms are given below.
 
-K-Means Clustering
-Agglomerative Clustering
-Spectral Clustering
-DBSCAN Clustering
-GaussianMixture Model based clustering
+K-Means Clustering,
+Agglomerative Clustering,
+Spectral Clustering,
+DBSCAN Clustering,
+GaussianMixture Model based clustering .
 
 
 **Final Model :**
